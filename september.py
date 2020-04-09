@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import cv2
 import random
-from twilio.rest import Client
+
 from selenium import webdriver 
 from time import sleep
 
